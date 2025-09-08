@@ -4,3 +4,6 @@ O primeiro trecho do livro trata das diferenças entre dois termos que, no dia a
 ## 2° Atividade. Comentario sobre o segundo trecho do livro
 O segundo trecho do livro propõe algumas ideias sobre os pontos de preocupação da engenharia de software, destacando práticas que visam aumentar a usabilidade do software. Essas práticas consideram as mudanças ao longo do tempo e a sua adaptabilidade, a capacidade de escalar à medida que o uso aumenta e as decisões tomadas ao longo do tempo em relação ao que foi citado anteriormente. Portanto, a engenharia de software preocupa-se com a qualidade de vida do projeto e com sua usabilidade não apenas no momento da concepção, mas ao longo de todo o seu ciclo de uso.
 ### 3° Atividade. listar e explicar 3 exemplos de tradeoffs
+1.
+2.
+3.
