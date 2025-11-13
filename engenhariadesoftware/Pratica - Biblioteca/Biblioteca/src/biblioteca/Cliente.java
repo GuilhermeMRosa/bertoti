@@ -33,12 +33,6 @@ public class Cliente {
 	
 	public String alugarLivro(Cliente cliente ,Livro livro) {
 		return ("Parabens " + cliente.getNome() + " voce alugou o livro " + livro.getNome() + " do tipo " + livro.getTipo());
-		
 	}
-	
-	
-	
-	
-	
 }
 
